@@ -2,15 +2,18 @@
 
 
 
+## General programming
+
 
 
 | Title                                                        | Author        | Link                                                         | Topic and difficulty                                        | Description                                                  |
 | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| Computational Fairytales                                     | Jeremy Kubica | Book (202 pages, CreateSpace Independent Publishing Platform (June 26, 2012)). | Programming, computational thinking, data structures - EASY | Collection of short explanations of various computer science principles - mostly algorithms - delivered in a completely different format that makes them approachable for someone with absolutely no prior knowledge of computer science. The book uses metaphors from fairytales (or a medieval quest) to explore Data Structures, Algorithms, Graphs and Computational Concepts. |
+| Computational Fairytales                                     | Jeremy Kubica | Boxok (202 pages, CreateSpace Independent Publishing Platform (June 26, 2012)). | Programming, computational thinking, data structures - EASY | Collection of short explanations of various computer science principles - mostly algorithms - delivered in a completely different format that makes them approachable for someone with absolutely no prior knowledge of computer science. The book uses metaphors from fairytales (or a medieval quest) to explore Data Structures, Algorithms, Graphs and Computational Concepts. |
 | Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code | Zed A. Shaw   | Book (320 pages, Addison-Wesley Professional (27 Jun. 2017)) | Python - EASY                                               | Famous introductory book on programming in Python.           |
 | Real Python                                                  |               | https://realpython.com/                                      | Python - EASY                                               | Good for improving Python at all competence levels, from beginner to advanced |
 | Codeless Code                                                |               | http://www.thecodelesscode.com/case/234                      | software engineering - EASY                                 | Good for understanding the principles behind software development |
 | Violent Python                                               |               | https://7chan.org/pr/src/Violent_Python_A_Cookbook_for_Hackers_Forensic_Ana.pdf | Hacking and security - HARD                                 | Python for hacking, forensic analysis, penetration testing and security engineering |
+|                                                              |               |                                                              |                                                             |                                                              |
 
 
 
@@ -99,9 +102,13 @@
 
 ## Time Series
 
-| Title                                                        | Author                            | Link                                   | Topic and difficulty | Description                        |
-| ------------------------------------------------------------ | --------------------------------- | -------------------------------------- | -------------------- | ---------------------------------- |
-| Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence | Judith D. Singer, John B. Willett | Book (644 pages, OUP USA (8 May 2003)) | Time Series - HARD   | Advanced time series analysis text |
+| Title                                                        | Author                            | Link                                                         | Topic and difficulty        | Description                                                  |
+| ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| Time Series analysis in Python                               | Selva Prahbakaran                 | https://www.machinelearningplus.com/time-series/time-series-analysis-python/ | TIme Series - EASY          | Clear walkthrough of time series analysis                    |
+| Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence | Judith D. Singer, John B. Willett | Book (644 pages, OUP USA (8 May 2003))                       | Time Series - HARD          | Advanced time series analysis text                           |
+| Python for Data Analysis, chapter 11                         | Wess McKinney                     | https://www.oreilly.com/library/view/python-for-data/9781491957653/ch11.html | Time Series -               | Reference text book                                          |
+| Python for finance: Algorithmic trading                      | Karlijn Willems                   | https://www.datacamp.com/community/tutorials/finance-python-trading | Finance, time series - EASY | from scratch tutorial on time series analysis in a finance context |
+| A guide to time series forecasting with arima in Python 3    | Thomas Vincent                    | https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3 | ARIMA, SARIMAX - EASY       | walkthrough of implementing ARIMA and SARIMAX                |
 
 
 
@@ -128,13 +135,19 @@
 
 ## SQL
 
-| Title | Author | Link | Topic and difficulty | Description | 
+| Title                   | Author | Link                                            | Topic and difficulty                         | Description |
+| ----------------------- | ------ | ----------------------------------------------- | -------------------------------------------- | ----------- |
+| SQL to pandas dataframe |        | https://datatofish.com/sql-to-pandas-dataframe/ | Pyodbc, linking databases to notebook - EASY |             |
+
+
 
 
 
 ## Big Data
 
-| Title | Author | Link | Topic and difficulty | Description | 
+| Title                        | Author    | Link                                                         | Topic and difficulty                                | Description                   |
+| ---------------------------- | --------- | ------------------------------------------------------------ | --------------------------------------------------- | ----------------------------- |
+| Hadoop: the difinitive guide | Tom White | book, 500+ pages: http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20The%20Definitive%20Guide.pdf | HDFS, MapReduce, Pig, HBase, basically everything - | Reference text book on Hadoop |
 
 
 
