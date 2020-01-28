@@ -2,8 +2,6 @@
 
 
 
-## General programming
-
 
 
 | Title                                                        | Author        | Link                                                         | Topic and difficulty                                        | Description                                                  |
