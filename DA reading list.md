@@ -8,12 +8,15 @@
 
 | Title                                                        | Author        | Link                                                         | Topic and difficulty                                        | Description                                                  |
 | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| Computational Fairytales                                     | Jeremy Kubica | Boxok (202 pages, CreateSpace Independent Publishing Platform (June 26, 2012)). | Programming, computational thinking, data structures - EASY | Collection of short explanations of various computer science principles - mostly algorithms - delivered in a completely different format that makes them approachable for someone with absolutely no prior knowledge of computer science. The book uses metaphors from fairytales (or a medieval quest) to explore Data Structures, Algorithms, Graphs and Computational Concepts. |
+| Google's Python course                                       | Google        | https://developers.google.com/edu/python/?csw=1              | intro to Python, lists, sorting, dictionaries, RegEx,       |                                                              |
+| Computational Fairytales                                     | Jeremy Kubica | Book (202 pages, CreateSpace Independent Publishing Platform (June 26, 2012)). | Programming, computational thinking, data structures - EASY | Collection of short explanations of various computer science principles - mostly algorithms - delivered in a completely different format that makes them approachable for someone with absolutely no prior knowledge of computer science. The book uses metaphors from fairytales (or a medieval quest) to explore Data Structures, Algorithms, Graphs and Computational Concepts. |
 | Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code | Zed A. Shaw   | Book (320 pages, Addison-Wesley Professional (27 Jun. 2017)) | Python - EASY                                               | Famous introductory book on programming in Python.           |
 | Real Python                                                  |               | https://realpython.com/                                      | Python - EASY                                               | Good for improving Python at all competence levels, from beginner to advanced |
 | Codeless Code                                                |               | http://www.thecodelesscode.com/case/234                      | software engineering - EASY                                 | Good for understanding the principles behind software development |
 | Violent Python                                               |               | https://7chan.org/pr/src/Violent_Python_A_Cookbook_for_Hackers_Forensic_Ana.pdf | Hacking and security - HARD                                 | Python for hacking, forensic analysis, penetration testing and security engineering |
-|                                                              |               |                                                              |                                                             |                                                              |
+| Python Datatypes                                             | Dale Fugier   | https://developer.rhino3d.com/guides/rhinopython/python-datatypes/ | numbers, string, lists, tuples, dictionaries - EASY         | Overview of the five standard data types in Python           |
+| How Jupyter notebook and iPython work                        |               | https://jupyter.readthedocs.io/en/latest/architecture/how_jupyter_ipython_work.html | Jupyter architecture                                        | Reference material on Jupyter Notebook                       |
+| Object oriented programming (OOP) in Python                  |               | https://realpython.com/python3-object-oriented-programming/  | OOP, classes, instances - INTERMEDIATE                      |                                                              |
 
 
 
@@ -34,9 +37,11 @@
 
 ## Foundations
 
-| Title                                                        | Author         | Link | Topic and difficulty  | Description                          |
-| ------------------------------------------------------------ | -------------- | ---- | --------------------- | ------------------------------------ |
-| Statistics without Tears: An Introduction for Non-Mathematicians | Derek Rowntree |      | Intro to stats - EASY | Excellent introduction to statistics |
+| Title                                                        | Author         | Link                                                         | Topic and difficulty                                         | Description                                                  |
+| ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Statistics without Tears: An Introduction for Non-Mathematicians | Derek Rowntree |                                                              | Intro to stats - EASY                                        | Excellent introduction to statistics                         |
+| Statistical hypothesis testing - cheatsheet                  | Jason Brownlee | https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/ | hypothesis testing - EASY                                    | useful overview of different statistical tests and their code implementation |
+| Hypothesis testing in machine learning                       | Yogesh Agrawal | https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce | hypothesis , type I and II erros, various tests - INTERMEDIATE | intro to hypotheses, normal distributions, various tests and their requirements, false positives/negatives |
 
 ## Clustering
 
@@ -52,7 +57,13 @@
 
 ## Association Rules
 
-| Title | Author | Link | Topic and difficulty | Description | 
+| Title                                        | Author      | Link                                                         | Topic and difficulty                                         | Description                                                  |
+| -------------------------------------------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Complete guide to association rules (part 1) | Anisha Garg | https://towardsdatascience.com/association-rules-2-aa9a77241654 | concepts and metrics in AR - EASY                            | description of concept of AR, and metrics such as support, confidence and lift. |
+| Complete guide to association rules (part 2) | Anisha Garg | https://towardsdatascience.com/complete-guide-to-association-rules-2-2-c92072b56c84 | APRIORI - EASY                                               | description of apriori algorithm, no code involved.          |
+| Introduction to recommender systems          | Shuyu Luo   | https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26 | collaborative filtering, nearest neighbourhood, matrix factorisation - INTERMEDIATE | difference between AR and collaborative filtering, various techniques to implement recommender systems |
+
+
 
 
 
@@ -147,7 +158,7 @@
 
 | Title                        | Author    | Link                                                         | Topic and difficulty                                | Description                   |
 | ---------------------------- | --------- | ------------------------------------------------------------ | --------------------------------------------------- | ----------------------------- |
-| Hadoop: the difinitive guide | Tom White | book, 500+ pages: http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20The%20Definitive%20Guide.pdf | HDFS, MapReduce, Pig, HBase, basically everything - | Reference text book on Hadoop |
+| Hadoop: the definitive guide | Tom White | book, 500+ pages: http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/Hadoop%20The%20Definitive%20Guide.pdf | HDFS, MapReduce, Pig, HBase, basically everything - | Reference text book on Hadoop |
 
 
 
