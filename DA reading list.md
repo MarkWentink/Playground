@@ -17,6 +17,9 @@
 | Python Datatypes                                             | Dale Fugier   | https://developer.rhino3d.com/guides/rhinopython/python-datatypes/ | numbers, string, lists, tuples, dictionaries - EASY         | Overview of the five standard data types in Python           |
 | How Jupyter notebook and iPython work                        |               | https://jupyter.readthedocs.io/en/latest/architecture/how_jupyter_ipython_work.html | Jupyter architecture                                        | Reference material on Jupyter Notebook                       |
 | Object oriented programming (OOP) in Python                  |               | https://realpython.com/python3-object-oriented-programming/  | OOP, classes, instances - INTERMEDIATE                      |                                                              |
+|                                                              |               |                                                              |                                                             |                                                              |
+|                                                              |               |                                                              |                                                             |                                                              |
+|                                                              |               |                                                              |                                                             |                                                              |
 
 
 
