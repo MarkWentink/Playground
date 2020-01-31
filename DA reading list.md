@@ -50,7 +50,7 @@
 
 | Title                                                        | Author                            | Link                                                         | Topic and difficulty                                    | Description                                                  |
 | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ |
-| K-Modes intuition and example                                | Aysan Fernandes (the man himself) | [link](https://www.youtube.com/watch?v=b39_vipRkUo)          | K-Modes                                                 |                                                              |
+| K-Modes intuition and example                                | Aysan Fernandes (the man himself) | [link](https://www.youtube.com/watch?v=b39_vipRkUo)          | K-Modes, categorical clustering                         | explores an option for clustering categorical variables      |
 | The 5 Clustering Algorithms Data Scientists Need to Know     | George Seif                       | [link](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) | Clustering algorithms                                   |                                                              |
 | Why and How to scale your features                           |                                   | [link](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e) | Scaling and Standardisation                             |                                                              |
 | DBSCAN Algorithm: Complete Guide and Application with Python Scikit-Learn | Saptashwa Bhattacharyya           | [link](https://towardsdatascience.com/dbscan-algorithm-complete-guide-and-application-with-python-scikit-learn-d690cbae4c5d) | DBSCAN tutorial - INTERMEDIATE                          |                                                              |
@@ -85,9 +85,13 @@
 
 ## Regression
 
-| Title | Author | Link | Topic and difficulty | Description |
-| ----- | ------ | ---- | -------------------- | ----------- |
-|       |        |      |                      |             |
+| Title                                                        | Author         | Link                                                         | Topic and difficulty                         | Description                                                  |
+| ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
+| Causal data science                                          | Adam Kelleher  | [link](https://medium.com/causal-data-science/causal-data-science-721ed63a4027) | Correlation v causation, bias - INTERMEDIATE | blog post series on different aspects of causal inference. Good starting point. |
+| Introduction to causal inference                             | Peter Spirtes  | [link](http://www.jmlr.org/papers/volume11/spirtes10a/spirtes10a.pdf) | Causal inference - INTERMEDIATE              | introduction to measuring cause and effect in variables      |
+| Distinguishing Cause from Effect Using Observational Data: Methods and Benchmarks | Joris Mooij    | [link](http://jmlr.org/papers/volume17/14-518/14-518.pdf)    | Causal inference - HARD                      | Details of methods use to analyse cause and effect           |
+| Understanding causal inference                               | Domino DataLab | [link](https://blog.dominodatalab.com/understanding-causal-inference/) | Causal inference, OLS, GLM - INTERMEDIATE    | Walkthrough of application in Python                         |
+|                                                              |                |                                                              |                                              |                                                              |
 
 
 
