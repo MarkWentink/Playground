@@ -1,5 +1,11 @@
 # DA Reading list
 
+Are we looking to use this as a reference for Mentors to pick from
+
+descirbe how E/I/H can be used best by the mentor for the learners. 
+
+For Advanced, clarify what we mean by strethc resources
+
 
 
 ## General programming
