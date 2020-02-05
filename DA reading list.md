@@ -1,20 +1,20 @@
-# DA Reading list
+# Data Academy Resources list
 
 
 
- looking to use this as a reference for Mentors to pick from and send resources to students
+This page lists articles, videos, and blogs on Data Academy topics and beyond for both the learners' and mentors' learning. Rather than sharing the entire list with learners, please select resources on an as-needed basis for each learner to encourage them to structure their learning and build strong foundations before stretching their skills.  
 
-INTRO resources are suitable as first look at a new topic. This may overlap with what is taught in the workshop or online content. 
+Resources are organised by course (v1.5 and older) module, along with 'General programming' and 'General data science' resources (at the top) and 'Managing learning' (at the end). Each resource has also been given a complexity score:
 
-INTERMEDIATE resources will focus on implementation of techniques, topics outside of the curriculum, or light touch maths behind algorithms
+* INTRO resources are suitable as first look at a new topic. This may overlap with what is taught in the workshop or online content, or cover a related topic such as alternative algorithms. 
 
-ADVANCED resources deep delve into how algorithms work, often detailing the maths involved, or may focus on the implementation of more complicated techniques outside of the curriculum. 
+* INTERMEDIATE resources will focus on implementation of techniques, topics outside of the curriculum, or take a more mathematical approach to explaining concepts.
+
+* ADVANCED resources deep delve into how algorithms work, often detailing the maths involved, or may focus on the implementation of more complicated techniques outside of the curriculum. 
 
 The sharing of stretch resources should be built up constructively. Advanced learners tend to have scattered interest, and you want to make sure their learning is structured, and they have a thorough understanding of the basics before jumping ahead to advanced topics. 
 
 ## General programming
-
-
 
 | Title                                                        | Author        | Link                                                         | Topic and difficulty                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
