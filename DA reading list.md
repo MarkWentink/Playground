@@ -1,6 +1,6 @@
 # Data Academy Resources list
 
-*Do you have resources that may be valuable for the rest of the team? Please add them to the bottom of the [reading list](https://docs.google.com/document/d/1g1UyG0WhDPV-umHeToe33pAd3xzpbPYtMQbJoeXiKG4/edit?ts=5e2f1537#)) and they'll be uploaded here.*
+*Do you have resources that may be valuable for the rest of the team? Please add them to the bottom of the [reading list](https://docs.google.com/document/d/1g1UyG0WhDPV-umHeToe33pAd3xzpbPYtMQbJoeXiKG4/edit?ts=5e2f1537#) and they'll be uploaded here.*
 
 This page lists articles, videos, and blogs on Data Academy topics and beyond for both the learners' and mentors' interest. Rather than sharing the entire list with learners, please select resources on an as-needed basis for each learner to encourage them to structure their learning and build strong foundations before stretching their skills.  
 
