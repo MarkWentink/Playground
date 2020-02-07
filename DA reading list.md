@@ -1,8 +1,8 @@
 # Data Academy Resources list
 
+*Do you have resources that may be valuable for the rest of the team? Please add them to the bottom of the [reading list](https://docs.google.com/document/d/1g1UyG0WhDPV-umHeToe33pAd3xzpbPYtMQbJoeXiKG4/edit?ts=5e2f1537#)) and they'll be uploaded here.*
 
-
-This page lists articles, videos, and blogs on Data Academy topics and beyond for both the learners' and mentors' learning. Rather than sharing the entire list with learners, please select resources on an as-needed basis for each learner to encourage them to structure their learning and build strong foundations before stretching their skills.  
+This page lists articles, videos, and blogs on Data Academy topics and beyond for both the learners' and mentors' interest. Rather than sharing the entire list with learners, please select resources on an as-needed basis for each learner to encourage them to structure their learning and build strong foundations before stretching their skills.  
 
 Resources are organised by course (v1.5 and older) module, along with 'General programming' and 'General data science' resources (at the top) and 'Managing learning' (at the end). Each resource has also been given a complexity score:
 
@@ -13,6 +13,8 @@ Resources are organised by course (v1.5 and older) module, along with 'General p
 * ADVANCED resources deep delve into how algorithms work, often detailing the maths involved, or may focus on the implementation of more complicated techniques outside of the curriculum. 
 
 The sharing of stretch resources should be built up constructively. Advanced learners tend to have scattered interest, and you want to make sure their learning is structured, and they have a thorough understanding of the basics before jumping ahead to advanced topics. 
+
+---------------------------------------------------
 
 ## General programming
 
@@ -48,6 +50,8 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 |                                                              |                             |                                          |                                                          |                                                              |
 |                                                              |                             |                                          |                                                          |                                                              |
 
+
+
 ## Foundations
 
 | Title                                                        | Author         | Link                                                         | Topic and difficulty                                         | Description                                                  |
@@ -55,6 +59,8 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 | Statistics without Tears: An Introduction for Non-Mathematicians | Derek Rowntree |                                                              | Intro to stats - INTRO                                       | Excellent introduction to statistics                         |
 | Statistical hypothesis testing - cheatsheet                  | Jason Brownlee | [link](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/) | hypothesis testing - INTRO                                   | useful overview of different statistical tests and their code implementation |
 | Hypothesis testing in machine learning                       | Yogesh Agrawal | [link](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce) | hypothesis , type I and II erros, various tests - INTERMEDIATE | intro to hypotheses, normal distributions, various tests and their requirements, false positives/negatives |
+
+
 
 ## Clustering
 
@@ -78,8 +84,6 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 
 
 
-
-
 ## Visualisation
 
 | Title                                                        | Author                  | Link                                                         | Topic and difficulty                   | Description                                                  |
@@ -88,8 +92,6 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 | The beauty of data visualisation                             | David McCandless        | [link](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/up-next?language=en) | Storytelling with data - INTRO         | TED talk on the book above                                   |
 | Storytelling with Data: A Data Visualization Guide for Business Professionals | Cole Nussbaumer Knaflic | Book (288 pages,  Wiley & Sons 2015)                         | Storytelling, business framing - INTRO | A guide to transmuting data analysis into stories for our readership |
 | From Data to Viz                                             | Conor Healy             | Data-to-viz.com                                              | picking the right graph - INTRO        | From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid. |
-
-
 
 
 
@@ -105,8 +107,6 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 
 
 
-
-
 ## Classification
 
 | Title                                               | Author          | Link                                                         | Topic and difficulty                                         | Description                                                  |
@@ -116,15 +116,11 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 
 
 
-
-
 ## Neural Networks
 
 | Title                             | Author             | Link                                              | Topic and difficulty | Description                                     |
 | --------------------------------- | ------------------ | ------------------------------------------------- | -------------------- | ----------------------------------------------- |
 | Neural networks and deep learning | Michael A. Nielsen | [link](http://neuralnetworksanddeeplearning.com/) | INTERMEDIATE         | free online book. Some maths and logic involved |
-
-
 
 
 
@@ -140,8 +136,6 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 
 
 
-
-
 ## Text analysis
 
 | Title                                            | Author         | Link                                                         | Topic and difficulty                                    | Description                                                  |
@@ -153,11 +147,11 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 
 
 
-
-
 ## Network Analysis
 
-| Title | Author | Link | Topic and difficulty | Description | 
+| Title | Author | Link | Topic and difficulty | Description |
+| ----- | ------ | ---- | -------------------- | ----------- |
+|       |        |      |                      |             |
 
 
 
@@ -166,8 +160,6 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 | Title                   | Author | Link                                                    | Topic and difficulty                          | Description |
 | ----------------------- | ------ | ------------------------------------------------------- | --------------------------------------------- | ----------- |
 | SQL to pandas dataframe |        | [link](https://datatofish.com/sql-to-pandas-dataframe/) | Pyodbc, linking databases to notebook - INTRO |             |
-
-
 
 
 
