@@ -149,11 +149,12 @@ The sharing of stretch resources should be built up constructively. Advanced lea
 
 ## Network Analysis
 
-| Title | Author | Link | Topic and difficulty | Description |
-| ----- | ------ | ---- | -------------------- | ----------- |
-|       |        |      |                      |             |
-
-
+| Title                                            | Author                            | Link                                                         | Topic and difficulty                                         | Description                                                  |
+| ------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| NetworkX tutorial                                | NetworkX                          | [Link](https://networkx.github.io/documentation/latest/tutorial.html) | NetworkX - INTERMEDIATE                                      | Official documentation tutorial to implement the NetworkX package in Python |
+| Introduction to graph theory                     | European Bioinformatics Institute | [Link](https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/introduction-graph-theory) | Graph theory, application in biology - INTRO                 | Introduction to graph theory. the course goes on to desribe graphs in a biology context, but the overall intro is relevant to all. |
+| Social and Technological Network Analysis        | University of Cambridge           | [Link](https://www.cl.cam.ac.uk/teaching/1314/L109/materials.html) | centrality, robustness, cascades, temporal and spatial network analysis - INTERMEDIATE | Lecture slides from university course                        |
+| Exploring and analysing network data with Python | John Ladd                         | [Link](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python) | implementation, metrics, centrality - INTERMEDIATE           | implementation of NetworkX in a social context - walkthrough of code |
 
 ## SQL
 
